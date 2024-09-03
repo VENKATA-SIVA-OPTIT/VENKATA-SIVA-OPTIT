@@ -5,8 +5,6 @@
 
 - 💬 Ask me about: **GitHub,Linux,Jenkins,AWS Services,Docker,Shell Scripting,Python**
 
-- 📫 How to reach me: **sivareddybijjam08@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/urs_truly_siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="urs_truly_siva" height="30" width="40" /></a>
