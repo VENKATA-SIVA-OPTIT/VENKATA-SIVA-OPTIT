@@ -1,4 +1,4 @@
-![Black Yellow Modern Programmer LinkedIn Banner (1)](https://github.com/user-attachments/assets/1e1c4b45-3f50-4446-8b28-5057be786431)
+
 - 🔭 I’m currently working in: **OPT IT Technologies**
 
 - 🌱 I’m currently learning **Kubernetes**
